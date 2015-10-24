@@ -9,36 +9,36 @@
  * Use these helper classes to cause other elements to adopt the styling of the
  * respective heading, e.g.:
  *
-   <h2 class="alpha">Lorem ipsum</h2>
+   <h2 class="u-alpha">Lorem ipsum</h2>
  *
  */
 
-.#{$inuit-namespace}alpha,
-%#{$inuit-namespace}alpha {
+.#{$inuit-namespace}u-alpha,
+%#{$inuit-namespace}u-alpha {
     @include inuit-font-size($inuit-heading-size-1);
 }
 
-.#{$inuit-namespace}beta,
-%#{$inuit-namespace}beta {
+.#{$inuit-namespace}u-beta,
+%#{$inuit-namespace}u-beta {
     @include inuit-font-size($inuit-heading-size-2);
 }
 
-.#{$inuit-namespace}gamma,
-%#{$inuit-namespace}gamma {
+.#{$inuit-namespace}u-gamma,
+%#{$inuit-namespace}u-gamma {
     @include inuit-font-size($inuit-heading-size-3);
 }
 
-.#{$inuit-namespace}delta,
-%#{$inuit-namespace}delta {
+.#{$inuit-namespace}u-delta,
+%#{$inuit-namespace}u-delta {
     @include inuit-font-size($inuit-heading-size-4);
 }
 
-.#{$inuit-namespace}epsilon,
-%#{$inuit-namespace}epsilon {
+.#{$inuit-namespace}u-epsilon,
+%#{$inuit-namespace}u-epsilon {
     @include inuit-font-size($inuit-heading-size-5);
 }
 
-.#{$inuit-namespace}zeta,
-%#{$inuit-namespace}zeta {
+.#{$inuit-namespace}u-zeta,
+%#{$inuit-namespace}u-zeta {
     @include inuit-font-size($inuit-heading-size-6);
 }
