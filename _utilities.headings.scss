@@ -13,32 +13,26 @@
  *
  */
 
-.#{$inuit-namespace}u-alpha,
-%#{$inuit-namespace}u-alpha {
+.u-alpha {
     @include inuit-font-size($inuit-heading-size-1);
 }
 
-.#{$inuit-namespace}u-beta,
-%#{$inuit-namespace}u-beta {
+.u-beta {
     @include inuit-font-size($inuit-heading-size-2);
 }
 
-.#{$inuit-namespace}u-gamma,
-%#{$inuit-namespace}u-gamma {
+.u-gamma {
     @include inuit-font-size($inuit-heading-size-3);
 }
 
-.#{$inuit-namespace}u-delta,
-%#{$inuit-namespace}u-delta {
+.u-delta {
     @include inuit-font-size($inuit-heading-size-4);
 }
 
-.#{$inuit-namespace}u-epsilon,
-%#{$inuit-namespace}u-epsilon {
+.u-epsilon {
     @include inuit-font-size($inuit-heading-size-5);
 }
 
-.#{$inuit-namespace}u-zeta,
-%#{$inuit-namespace}u-zeta {
+.u-zeta {
     @include inuit-font-size($inuit-heading-size-6);
 }
