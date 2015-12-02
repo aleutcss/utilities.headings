@@ -1,5 +1,5 @@
 {
-  "name": "aleut-headings-trumps",
+  "name": "@aleut/aleut-headings-trumps",
   "version": "0.2.0",
   "description": "Helper classes for aleutcss’ headings. (based on Harry Roberts inuitcss framework)",
   "main": "_trumps.headings.scss",
