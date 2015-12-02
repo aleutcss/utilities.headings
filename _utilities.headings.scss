@@ -14,25 +14,25 @@
  */
 
 .u-alpha {
-    @include inuit-font-size($inuit-heading-size-1);
+    @include aleut-font-size($aleut-heading-size-1);
 }
 
 .u-beta {
-    @include inuit-font-size($inuit-heading-size-2);
+    @include aleut-font-size($aleut-heading-size-2);
 }
 
 .u-gamma {
-    @include inuit-font-size($inuit-heading-size-3);
+    @include aleut-font-size($aleut-heading-size-3);
 }
 
 .u-delta {
-    @include inuit-font-size($inuit-heading-size-4);
+    @include aleut-font-size($aleut-heading-size-4);
 }
 
 .u-epsilon {
-    @include inuit-font-size($inuit-heading-size-5);
+    @include aleut-font-size($aleut-heading-size-5);
 }
 
 .u-zeta {
-    @include inuit-font-size($inuit-heading-size-6);
+    @include aleut-font-size($aleut-heading-size-6);
 }
