@@ -1,26 +1,32 @@
 {
-  "name": "inuit-headings-trumps",
-  "version": "0.1.3",
-  "description": "Helper classes for inuitcss’ headings.",
+  "name": "aleut-headings-trumps",
+  "version": "0.2.0",
+  "description": "Helper classes for aleutcss’ headings. (based on Harry Roberts inuitcss framework)",
   "main": "_trumps.headings.scss",
   "repository": {
     "type": "git",
-    "url": "https://github.com/inuitcss/trumps.headings.git"
+    "url": "https://github.com/aleutcss/trumps.headings.git"
   },
-  "author": "Harry Roberts <harry@csswizardry.com>",
-  "license": "Apache 2",
+  "contributors": [
+    {"name": "Marius Hauken", "url": "http://twitter.com/mhauken", "email": "hauken@netliferesearch.com"},
+    {"name": "Robin Sandborg", "url": "http://twitter.com/robrobro", "email": "robin@netliferesearch.com"},
+    {"name": "Knut Melvær", "url": "http://twitter.com/kmelve", "email": "knut@netliferesearch.com"},
+    {"name": "Harry Roberts", "email": "harry@csswizardry.com"}
+  ],
+  "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/inuitcss/trumps.headings/issues"
+    "url": "https://github.com/aleutcss/trumps.headings/issues"
   },
-  "homepage": "https://github.com/inuitcss/trumps.headings",
+  "homepage": "https://github.com/aleutcss/trumps.headings",
   "keywords": [
     "typography",
     "type",
-    "inuitcss",
+    "aleutcss",
+    "aleut",
     "oocss",
     "css"
   ],
   "dependencies": {
-    "inuit-headings": "~0.3.0"
+    "@aleut/aleut-headings": "~0.5.0"
   }
 }
