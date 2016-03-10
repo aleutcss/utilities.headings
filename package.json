@@ -1,7 +1,7 @@
 {
   "name": "aleut.utilities.headings"
 ,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Helper classes for aleutcss’ headings. (based on Harry Roberts inuitcss framework)",
   "main": "_utilities.headings.scss",
   "repository": {
@@ -28,7 +28,7 @@
     "css"
   ],
   "dependencies": {
-    "aleut.base.headings": "~1.0.0"
+    "aleut.base.headings": "~1.0.2"
 
   }
 }
